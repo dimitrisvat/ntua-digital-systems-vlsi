@@ -1,0 +1,22 @@
+# Vivado generated files
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+*.xpr
+*.log
+*.jou
+*.wdb
+*.dcp
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+Thumbs.db
+desktop.ini
